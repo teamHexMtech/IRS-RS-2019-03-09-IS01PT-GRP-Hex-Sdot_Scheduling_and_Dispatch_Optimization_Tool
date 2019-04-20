@@ -4,9 +4,9 @@
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-In the semiconductor manufacturing, the reliability and integrity of the integrated circuits (ICs) are especially critical to the automotive and aerospace industries whereby any premature failure will lead to catastrophic consequences. The test process is the last quality gate before the ICs are shipped to the customers, and thus it is most important process in the whole manufacturing chain to ensure that there are no defect being shipped out. 
+The semiconductor backend testing is one of the most highly complex manufacturing systems in terms of equipment, process flows and interdependency relations. Furthermore, the complexity is increased due to a large product variety, complex product to tester relations, multiple level of tester to hardware dependency, sequence dependency, dynamic determination of processing and indexing time, batch processing and rework flow. Besides its complexity, the real production environment is also subjected to many uncertainties and unpredictable events due to continuous arrival of new and unforeseen orders and intermittent occurrence of machine breakdown, and random process and yield variations. Thus, the scheduling is no longer simply a static optimization problem, but an ongoing reactive process. Therefore, the scheduling operations and optimization in semiconductor backend testing are highly demanding and challenging for both researchers and practitioners.  
 
-Many companies place high emphasis on quality management and achieving ‘zero defect’. In quality management, the 6-sigma process control is widely used to improve quality and eliminate defects.  When the lot (batch of ICs) does not meet the quality and customer requirements, the process control will flag and stop the lot from proceeding on to the packing process and the lot will be on hold (LOH). The LOH will then be sent for further investigation to assess its risk and understand the cause of the deviation which may arise due to product or process-related problems.
+Based on the above considerations given to the different facets in the scheduling process, this project aims to introduce a real-time manufacturing scheduler that is capable of helping the production accomplish operation strategies, optimize goals and deal with daily disruptions such as machine breakdown and WIP discontinuity in a more effective way. 
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -23,9 +23,6 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 [![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
-
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
 
 ---
 ## SECTION 5 : USER GUIDE
@@ -50,18 +47,6 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 `<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
-
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- List of Abbreviations (if applicable)
-- References (if applicable)
 
 ---
 ## SECTION 7 : MISCELLANEOUS
