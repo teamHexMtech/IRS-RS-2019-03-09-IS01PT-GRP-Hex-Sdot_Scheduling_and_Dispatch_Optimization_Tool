@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Scheduling and Despatch Optimization Tool
+## Scheduling and Dispatch Optimization Tool
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
