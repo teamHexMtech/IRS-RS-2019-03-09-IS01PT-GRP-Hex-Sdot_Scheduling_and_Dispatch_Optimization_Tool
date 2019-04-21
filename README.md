@@ -37,11 +37,11 @@ Based on the above considerations given to the different facets in the schedulin
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-## GALotSelection.xlsx	
-## Sdot.war	
-## reasoningsytemData.xlsx	
-## sdot.sql	
-## test_data.csv
+ GALotSelection.xlsx	
+ Sdot.war	
+ reasoningsytemData.xlsx	
+ sdot.sql	
+ test_data.csv
 
 ---
 
