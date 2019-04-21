@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Lot Scheduling
+## Scheduling and Despatch Optimization Tool
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
