@@ -27,12 +27,12 @@ Based on the above considerations given to the different facets in the schedulin
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/tree/master/UserGuide>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/blob/master/UserGuide/UserGuide.pdf>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/blob/master/ProjectReport/ProjectReport.pdf
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/blob/master/ProjectReport/ProjectReport.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
