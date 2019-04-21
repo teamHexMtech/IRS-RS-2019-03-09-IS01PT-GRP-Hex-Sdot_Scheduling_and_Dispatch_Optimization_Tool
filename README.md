@@ -22,7 +22,7 @@ Based on the above considerations given to the different facets in the schedulin
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Sudoku AI Solver](https://www.flickr.com/photos/163354680@N02/40690941073/in/dateposted-public/)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
 
 ---
 ## SECTION 5 : USER GUIDE
