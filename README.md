@@ -37,9 +37,11 @@ Based on the above considerations given to the different facets in the schedulin
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+GALotSelection.xlsx	
+Sdot.war	
+reasoningsytemData.xlsx	
+sdot.sql	
+test_data.csv
 
 ---
 
