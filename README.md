@@ -17,8 +17,8 @@ Based on the above considerations given to the different facets in the schedulin
 | LIM LI WEI | A0087855L | Feasibility Study with JBPM and Software Testing, Recommending and Exploring Solutions for Development,  Helped with Drafting System Features and Conclusion in Report.| e0319479@u.nus.edu |
 | PAMELA LIN YAN LING | A0196413A | Provided problem domain with real industrial application and provided the relevant data. Responsible for project scoping and objective definition, and scheduling problem definition and formulation. Designed the lot selection process.| e0388053@u.nus.edu |
 | PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summaryand aspects of conclusion. Proof read report. Designed front end skin banner for the interface design.| e0384955@u.nus.edu |
-| YE CHANGHE | A0150138N | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0015120@u.nus.edu |
-| ZHANG HAIHAN | A0150701X | Developer of Jbpm and Java ,rule optimization and implication，end-to-end testing and test case，user guide, git file management and  solution part in report. | e0015787@u.nus.edu |
+| YE CHANGHE | A0150138N | Core developer of Java-web system front-end and backend, Db stucture design and development, schedule engine design and development, end to end test and test case.| e0015120@u.nus.edu |
+| ZHANG HAIHAN | A0150701X |Developer of Java-web system backend, schedule engine research, design and developmnet. Lot selection optimal solution design and development, readme file and version control.  | e0015787@u.nus.edu |
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
