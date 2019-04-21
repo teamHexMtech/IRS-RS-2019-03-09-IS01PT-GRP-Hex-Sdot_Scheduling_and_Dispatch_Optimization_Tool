@@ -27,7 +27,7 @@ Based on the above considerations given to the different facets in the schedulin
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/tree/master/UserGuide>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
